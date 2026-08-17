@@ -1,5 +1,0 @@
-Model / target,MAE,RMSE,R²,Δ vs base
-Min_Price,26.5,54.73,0.791,-4.89%
-Avg_Price,27.14,52.76,0.837,-37.11%
-Max_Price,27.71,50.42,0.87,-24.41%
-Baseline (last-value),22.44,49.4,—,—
