@@ -1,0 +1,7 @@
+Category,Target,RF MAE,LightGBM MAE
+fruit,Min_Price_next,45.38,49.1
+fruit,Avg_Price_next,52.9,58.22
+fruit,Max_Price_next,41.83,48.5
+vegetable,Min_Price_next,36.5,30.21
+vegetable,Avg_Price_next,35.76,29.54
+vegetable,Max_Price_next,41.33,32.95
