@@ -5,3 +5,4 @@
 *07-*.venv/
 *07_error_analysis*
 venv-multiprice/
+git add .gitignore
